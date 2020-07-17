@@ -49,11 +49,11 @@ MULTI_IP_MODE=3
 # Tip Address.
 TIPS='TW1EvMNptSoTWtYdNZdKTWWzqepYPvpHbk'
 # Dropbox Addnodes.
-DROPBOX_ADDNODES='https://raw.githubusercontent.com/YellowFeveRs/Tour-1/master/res/peers_1.txt'
+DROPBOX_ADDNODES='https://portal.touriva.info/pkg/peers/peers.txt'
 # Dropbox Bootstrap.
-DROPBOX_BOOTSTRAP='https://github.com/YellowFeveRs/Tour-1/raw/master/res/bootstrap.dat.gz'
+DROPBOX_BOOTSTRAP='https://portal.touriva.info/pkg/bootstrap/bootstrap.dat'
 # Dropbox blocks and chainstake folders.
-DROPBOX_BLOCKS_N_CHAINS='https://github.com/YellowFeveRs/Tour-1/raw/master/res/blocks_n_chains.tar.gz'
+DROPBOX_BLOCKS_N_CHAINS='https://portal.touriva.info/pkg/bootstrap/blocks_n_chains.tgz'
 
 ASCII_ART () {
 echo -e "\e[0m"
