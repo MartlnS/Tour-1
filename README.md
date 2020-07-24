@@ -1,5 +1,5 @@
-# Tour Masternode Setup Guide (Ubuntu 16.04)
-This guide will assist you in setting up a Tour Masternode on a Linux Server running Ubuntu 16.04. (Use at your own risk)
+# Tour Masternode Setup Guide (Ubuntu 18.04)
+This guide will assist you in setting up a Tour Masternode on a Linux Server running Ubuntu 18.04. (Use at your own risk)
 
 If you require further assistance contact the support team @ [Discord](https://discord.gg/SeS8hJe)
 
@@ -9,7 +9,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 ## Requirements
 1) **500 TOUR coins.**
-2) **A Vultr VPS running Linux Ubuntu 16.04.**
+2) **A Vultr VPS running Linux Ubuntu 18.04.**
 3) **A local wallet.**
 5) **An SSH client such as [Bitvise](https://dl.bitvise.com/BvSshClient-Inst.exe) or Terminal if you are on Mac**
 
@@ -49,7 +49,7 @@ If you require further assistance contact the support team @ [Discord](https://d
 ***
 
 ***Step 4***
-* Choose a server type: Ubuntu 16.04
+* Choose a server type: Ubuntu 18.04
 ![Example-OS](https://i.imgur.com/aSMqHUK.png)
 ***
 
